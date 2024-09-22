@@ -1,0 +1,17 @@
+{
+  "name": "c-online-compiler",
+  "version": "1.0.0",
+  "description": "a simple online c compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aniruth",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express.js": "^1.0.0",
+    "node-pty": "^1.0.0",
+    "ws": "^8.18.0"
+  }
+}
