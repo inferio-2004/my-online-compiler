@@ -1,4 +1,4 @@
-# My Online Compiler
+# Online Compiler
 
 This project is an online compiler that allows users to compile and run code in various programming languages.<br> 
 It provides two modes of operation: one for local execution and another using Docker for an isolated environment.
