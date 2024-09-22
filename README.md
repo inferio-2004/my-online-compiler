@@ -19,13 +19,14 @@ Running with Docker
 
 To compile and run code using Docker, follow these steps:
 
-Prerequisites
-1.Install Docker with WSL 2 support.
-2.install wsl 2 as  well
+Prerequisites<br>
+1.Install Docker with WSL 2 support.<br>
 Follow the official Docker installation guide to install Docker Desktop with WSL 2 integration on Windows.
-  Steps to Run
-  1.Make sure Docker is installed and running.
-  2.Build the Docker image for the compiler environment:
+2.install wsl 2 as  well<br>
+
+Steps to Run<br>
+1.Make sure Docker is installed and running.<br>
+2.Build the Docker image for the compiler environment:
 
 ```bash
 docker build -t my-online-compiler .
