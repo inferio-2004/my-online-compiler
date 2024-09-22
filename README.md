@@ -26,13 +26,12 @@ Follow the official Docker installation guide to install Docker Desktop with WSL
   Steps to Run
   1.Make sure Docker is installed and running.
   2.Build the Docker image for the compiler environment:
-bash
-```
+
+```bash
 docker build -t my-online-compiler .
 Once the image is built, you can run the backend using the index1.js file:
 ```
-```
-bash
+```bash
 node index1.js
 ```
 This will execute the code inside the Docker container, ensuring it runs in a controlled environment.
@@ -41,8 +40,7 @@ How to Use
 Clone the repository.
 Install necessary dependencies using:
 
-```
-bash
+```bash
 npm install
 ```
 
