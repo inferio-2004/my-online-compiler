@@ -1,6 +1,7 @@
 # My Online Compiler
 
-This project allows you to compile and run code either locally or inside a Docker container.
+This project is an online compiler that allows users to compile and run code in various programming languages.<br> 
+It provides two modes of operation: one for local execution and another using Docker for an isolated environment.
 
 ## Files Overview
 
