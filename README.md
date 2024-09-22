@@ -29,8 +29,9 @@ Follow the official Docker installation guide to install Docker Desktop with WSL
 
 ```bash
 docker build -t my-online-compiler .
-Once the image is built, you can run the backend using the index1.js file:
 ```
+Once the image is built, you can run the backend using the index1.js file:
+
 ```bash
 node index1.js
 ```
